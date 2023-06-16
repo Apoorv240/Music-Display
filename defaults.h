@@ -1,0 +1,12 @@
+#ifndef DEFAULTS_H
+#define DEFAULTS_H
+
+#define DEFAULT_METRONOME 90
+#define METRONOME_MIN 40
+#define METRONOME_MAX 216
+
+#define DEFAULT_VOLUME 70
+#define VOLUME_MIN 0
+#define VOLUME_MAX 100
+
+#endif // DEFAULTS_H

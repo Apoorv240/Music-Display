@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/sounds">
+        <file>sounds/click_low.wav</file>
+    </qresource>
+    <qresource prefix="/icons">
+        <file>icons/fileopen.png</file>
+        <file>icons/volume.png</file>
+    </qresource>
+</RCC>
